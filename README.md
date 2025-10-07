@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Jefferson Santino
-
-### A passionate developer from Brazil
+![Header](github-header-banner)
 
 </div>
 
