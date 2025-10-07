@@ -38,8 +38,6 @@ I am currently pursuing a career in Front-End Development, focusing on mastering
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jeffribeiro1&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jeffribeiro1&theme=onedark&column=7&margin-w=15&margin-h=15)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffribeiro1&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/jeffribeiro1?theme=dark)
