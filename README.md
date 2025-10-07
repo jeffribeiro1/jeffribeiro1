@@ -4,6 +4,8 @@
 
 </div>
 
+</div>
+
 ## 🚀 About Me
 
 I am currently pursuing a career in Front-End Development, focusing on mastering HTML, CSS, and JavaScript. My goal is to create responsive, user-friendly, and visually engaging web applications while continuously improving my programming skills.
@@ -34,11 +36,17 @@ I am currently pursuing a career in Front-End Development, focusing on mastering
 
 <div align="center">
 
-<!-- GitHub Stats Card: GitHub username required -->
+![Visitor Count](https://komarev.com/ghpvc/?username=jeffribeiro1&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-<!-- Visitor Count Badge: GitHub username required -->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jeffribeiro1&theme=onedark&column=7&margin-w=15&margin-h=15)
 
-<!-- GitHub Trophy: GitHub username required -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffribeiro1&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/jeffribeiro1?theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffribeiro1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffribeiro1&layout=compact&theme=dark&langs_count=10)
 
 </div>
 
@@ -50,6 +58,6 @@ I am currently pursuing a career in Front-End Development, focusing on mastering
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=jeffribeiro1&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
