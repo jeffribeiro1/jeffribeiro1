@@ -38,13 +38,10 @@ I am currently pursuing a career in Front-End Development, focusing on mastering
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jeffribeiro1&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffribeiro1&layout=compact&theme=dark&langs_count=10)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffribeiro1&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/jeffribeiro1?theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffribeiro1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffribeiro1&layout=compact&theme=dark&langs_count=10)
 
 </div>
 
