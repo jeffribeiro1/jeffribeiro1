@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](github-header-banner)
+![Header](github-header-banner.png)
 
 </div>
 
