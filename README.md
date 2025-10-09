@@ -4,17 +4,10 @@
 
 </div>
 
-</div>
 
 ## 🚀 About Me
 
 I am currently pursuing a career in Front-End Development, focusing on mastering HTML, CSS, and JavaScript. My goal is to create responsive, user-friendly, and visually engaging web applications while continuously improving my programming skills.
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffribeiro1)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jeffersonsantino)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jefreysantino)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeffsantino)
 
 </div>
 
@@ -56,3 +49,12 @@ I am currently pursuing a career in Front-End Development, focusing on mastering
 ![Profile Views](https://komarev.com/ghpvc/?username=jeffribeiro1&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffribeiro1)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jeffersonsantino)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jefreysantino)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeffsantino)
+
+</div>
+
