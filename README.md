@@ -5,13 +5,14 @@
 </div>
 
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-I am currently pursuing a career in Front-End Development, focusing on mastering HTML, CSS, and JavaScript. My goal is to create responsive, user-friendly, and visually engaging web applications while continuously improving my programming skills.
+
+Atualmente estou em transição de carreira em Desenvolvimento Front-End, com foco no domínio de HTML, CSS e JavaScript. Meu objetivo é criar aplicativos web responsivos, fáceis de usar e visualmente envolventes, ao mesmo tempo em que melhoro continuamente minhas habilidades de programação.
 
 </div>
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -19,7 +20,7 @@ I am currently pursuing a career in Front-End Development, focusing on mastering
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Status & Atividades
 
 <div align="center">
 
@@ -40,7 +41,7 @@ I am currently pursuing a career in Front-End Development, focusing on mastering
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**Thank you for visiting my profile! 😊**
+**Obrigado por visitar meu perfil! 😊**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeffribeiro1&color=brightgreen&style=flat-square&label=Profile+Views)
 
