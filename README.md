@@ -47,7 +47,7 @@ Atualmente estou em transição de carreira em Desenvolvimento Front-End, com fo
 
 </div>
 
-## 🌐 Connect with Me
+## 🌐 Conecte comigo
 
 <div align="center">
 
