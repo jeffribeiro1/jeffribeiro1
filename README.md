@@ -8,7 +8,9 @@
 ## 🚀 Sobre mim
 
 
-Atualmente estou em transição de carreira em Desenvolvimento Front-End, com foco no domínio de HTML, CSS e JavaScript. Meu objetivo é criar aplicativos web responsivos, fáceis de usar e visualmente envolventes, ao mesmo tempo em que melhoro continuamente minhas habilidades de programação.
+Estou em transição de carreira para a área de Tecnologia da Informação, buscando desenvolver habilidades em desenvolvimento de software e qualidade de software.
+Concluí minha formação em Desenvolvimento Front-End pelo programa Bolsa Futuro Digital, realizado pela Aponti, onde adquiri conhecimentos em HTML, CSS, JavaScript e boas práticas de desenvolvimento web.
+Atualmente estou me especializando na área de Teste de Software (QA), aprofundando meus estudos em qualidade, validação de aplicações, identificação de defeitos e metodologias de testes.
 
 </div>
 
