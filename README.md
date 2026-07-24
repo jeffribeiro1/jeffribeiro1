@@ -27,9 +27,7 @@ Atualmente estou me especializando na área de Teste de Software (QA), aprofunda
 
 **Obrigado por visitar meu perfil! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=jeffribeiro1&color=brightgreen&style=flat-square&label=Profile+Views)
 
-</div>
 
 ## 🌐 Conecte comigo
 
