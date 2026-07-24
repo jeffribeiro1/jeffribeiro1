@@ -24,26 +24,6 @@ Atualmente estou me especializando na área de Teste de Software (QA), aprofunda
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-## 📊 GitHub Status & Atividades
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=jeffribeiro1&label=Profile%20Visitors&color=blueviolet&style=flat-square)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffribeiro1&layout=compact&theme=dark&langs_count=10)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffribeiro1&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-
-</div>
-
-
-
----
-
-<div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **Obrigado por visitar meu perfil! 😊**
 
